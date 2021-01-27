@@ -1,0 +1,7 @@
+https://www.codepolitan.com/aplikasi-crud-sederhana-menggunakan-android-studio-dengan-database-sqlite-57b6d14e04fa5-14500
+https://www.codepolitan.com/belajar-realm-database-aplikasi-crud-sederhana-5b4bfd466ec62
+https://www.twoh.co/2013/01/12/tutorial-membuat-aplikasi-database-sqlite-android/
+https://www.twoh.co/2013/01/24/android-database-sqlite-tutorial-ii-fungsi-create-data/
+
+
+https://www.dropbox.com/s/n6dcbqfg2evouv7/CRUDSqlite.rar?dl=0
